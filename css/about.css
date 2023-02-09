@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+    font-family:'Times New Roman';
+}
+
+.container {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(image/modify.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    max-width: 100%;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.about-us {
+    margin-top: 35px;
+}
+
+.about-us h3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1));
+    font-size: 45px;
+    font-family: 'Piedra';
+    text-align: center;
+    color: aliceblue;
+}
+
+.about-us p {
+    font-family: cursive;
+    font-weight: 600;
+    color: rgba(250, 250, 250, 0.753);
+    text-align: center;
+    padding: 10px 35px;
+    margin-bottom: 20px;
+}
+
+.feedback h3 {
+    font-size: 45px;
+    font-family: 'Piedra', sans-serif;
+    text-align: center;
+    border-bottom: 2px solid gainsboro;
+    color: beige;
+}
+
+.lindita img {
+    height: 15rem;
+    display: block;
+    margin: 10px 10px;
+    border-radius: 70%;
+}
+
+.lindita h2 {
+    background-color: rgba(147, 147, 158, 0.678);
+    color: black;
+}
+
+.lindita p {
+    color: rgba(250, 250, 250, 0.753);
+}
+
+.roland img {
+    height: 15rem;
+    display: block;
+    margin: 10px 10px;
+    border-radius: 70%;
+}
+
+.roland h2 {
+    background-color: rgba(147, 147, 158, 0.678);
+    color: black;
+}
+
+.roland p {
+    color: rgba(250, 250, 250, 0.753);
+}
+
+.blero img {
+    height: 15rem;
+    display: block;
+    margin: 10px 10px;
+    border-radius: 70%;
+}
+
+.blero h2 {
+    background-color: rgba(147, 147, 158, 0.678);
+    color: black;
+}
+
+.blero p {
+    color: rgba(250, 250, 250, 0.753);
+}

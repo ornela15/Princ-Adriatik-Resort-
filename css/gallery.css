@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.gallery p {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 25px;
+    padding-top: 15px;
+    color: #27435d;
+    ;
+}
+
+.beg-gallery {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(image/sueno.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    max-width: 100%;
+    padding: 0px;
+    overflow: hidden;
+    width: 100%;
+    height: 600px;
+}
+
+.beg-gallery h3 {
+    padding-left: 20px;
+    padding-top: 40px;
+    font-family: "Piedra";
+    text-align: center;
+    font-size: 50px;
+    line-height: 35px;
+    border-bottom: 3px solid black;
+    color: #100eb1b2;
+    text-shadow: 2px 2px 8px rgba(60, 97, 165, 0.856);
+}
+
+.beg-gallery p {
+    font-size: 35px;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 600;
+    margin-top: 50px;
+    color: rgba(29, 73, 109, 0.836);
+}
+.sec-img p {
+    font-size: 35px;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 600;
+    margin-top: 50px;
+    color: rgba(29, 73, 109, 0.836);
+}
+.pije img {
+    height: 215px;
+    padding: 10px 30px;
+    margin-left: 80px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1));
+}
+
+.pije .col-md-6 img {
+    height: 300px;
+    padding: 5px 30px;
+    margin-top: 15px;
+    margin-left: 135px;
+}

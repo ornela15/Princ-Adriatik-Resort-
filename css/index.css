@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    color: whitesmoke;
+    margin-top: 5%;
+}
+
+.header h1 {
+    text-shadow: 2px 2px 8px rgba(60, 97, 165, 0.856);
+    text-align: center;
+    font-family: "Piedra";
+    font-size: 85px;
+    padding-top: 30px;
+}
+
+.header p {
+    padding-left: 20px;
+    padding-top: 40px;
+    font-family: "Piedra";
+    text-align: center;
+    font-size: 20px;
+    line-height: 35px;
+    text-shadow: 2px 2px 8px rgba(60, 97, 165, 0.856);
+}
+
+.pershkrimi {
+    padding: 50px 20px;
+}
+
+
+.pershkrimi h1 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    color: whitesmoke;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.pershkrimi h1 span {
+    color: #63e0e9;
+}
+
+.pershkrimi h4 {
+    margin-left: 50%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 5;
+}
+
+.pershkrimi p {
+    font-size: 18px;
+    color: blanchedalmond;
+    padding-left: 10px;
+    font-family: inherit;
+}
+
+.des-img {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+#des {
+    padding-right: 70px;
+    text-align: justify;
+    background-image: linear-gradient(rgb(0 123 255 / 13%), #71634a);
+}

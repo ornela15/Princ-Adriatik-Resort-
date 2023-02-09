@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    max-width: 100%;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.container {
+    width: 30rem;
+    margin-left: 20rem;
+    margin-top: 10rem;
+    object-position: center;
+    text-align: center;
+    font-style: oblique;
+    font-family: fantasy;
+    background-color: #365d6b87;
+    border-radius: 30% 30%;
+    text-align: center;
+    padding: 50px 40px;
+}
+
+.create-acc {
+    padding: 25px 30px;
+}
+
+.create-acc h2 {
+    margin-top: -35px;
+    padding-bottom: 6px;
+    font-size: 40px;
+    padding: 10px 30px;
+}
+
+.create-acc input {
+    margin: 5px 10px;
+    border-radius: 7px;
+    height: 20px;
+}
+
+.btn-create button {
+    margin-top: 10px;
+    border-radius: 15px;
+    height: 2rem;
+    width: 6rem;
+    font-family: cursive;
+    background-color: #173d6175;
+    border: 1px solid white;
+    margin-top: 35px;
+}
